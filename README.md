@@ -1,2 +1,2 @@
-# mypythoncode
+# Exercise
 My python code
